@@ -36,12 +36,11 @@ Analizar la variabilidad interanual y la distribución espacial de la temperatur
 
 ## Datos
 
-| Variable | Fuente | Detalles |
+| Variable | Fuente |
 |---|---|---|
-| Temperatura del aire a 2 m | ERA5-Land mensual (`ECMWF/ERA5_LAND/MONTHLY_AGGR`, banda `temperature_2m`) vía Google Earth Engine | Resolución nativa de ~9–11 km, solo superficie terrestre. Se promedia sobre el bounding box `[-81.5, -6.5, -78.5, -3.5]` y se convierte de K a °C. |
-| ONI | [NOAA Climate Prediction Center](https://cpc.ncep.noaa.gov/products/analysis_monitoring/enso/oni/v6/) (ERSSTv6) | El Niño ≥ +0,5 °C y La Niña ≤ −0,5 °C. |
-| ICEN | [ENFEN]([https://enfen.imarpe.gob.pe/](https://siofen.imarpe.gob.pe/nivel2/indice-costero-el-nino-icen))| El Niño ≥ +0,5 °C y La Niña ≤ −0,7 °C. |
-
+| Temperatura del aire a 2 m | ERA5-Land mensual (`ECMWF/ERA5_LAND/MONTHLY_AGGR`, banda `temperature_2m`) vía Google Earth Engine |
+| ONI | [NOAA Climate Prediction Center](https://cpc.ncep.noaa.gov/products/analysis_monitoring/enso/oni/v6/) (ERSSTv6) |
+| ICEN | [ENFEN](https://siofen.imarpe.gob.pe/nivel2/indice-costero-el-nino-icen/)|
 Datos crudos: [carpeta en Google Drive](https://drive.google.com/drive/folders/1ij63gMxIznzkXioFCEjUQID0N6r0wCm7?usp=sharing).
 
 ## Metodología

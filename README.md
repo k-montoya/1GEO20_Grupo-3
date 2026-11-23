@@ -37,7 +37,7 @@ Analizar la variabilidad interanual y la distribución espacial de la temperatur
 ## Datos
 
 | Variable | Fuente |
-|---|---|---|
+|---|---|
 | Temperatura del aire a 2 m | ERA5-Land mensual (`ECMWF/ERA5_LAND/MONTHLY_AGGR`, banda `temperature_2m`) vía Google Earth Engine |
 | ONI | [NOAA Climate Prediction Center](https://cpc.ncep.noaa.gov/products/analysis_monitoring/enso/oni/v6/) (ERSSTv6) |
 | ICEN | [ENFEN](https://siofen.imarpe.gob.pe/nivel2/indice-costero-el-nino-icen/)|
